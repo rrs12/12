@@ -1,0 +1,43 @@
+body {
+	text-align: center;
+}
+
+#logo {
+	height: 150px;
+	width: 600px;
+	text-align: center;
+}
+
+h1 {
+	text-align: right;
+	font-size: 20px;
+}
+
+#header {
+	background-color: darkorange;
+}
+
+h2 {
+	font-size: 39px;
+	text-decoration: underline;
+}
+
+#about {
+	color: #034c73;
+	font-size: 20px;
+	font-family: serif;
+}
+
+h3 {
+	font-size: 20px;
+	margin-left: 3px;
+	margin-right: 3px;
+	font-style: italic;
+}
+
+h4{
+	font-size: 20px;
+	margin-left: 5px;
+	margin-right: 5px;
+	font-style: italic;
+}
